@@ -1,0 +1,34 @@
+{
+  "name": "gibernate",
+  "version": "0.1.0",
+  "description": "this is a ORM framework based on redis,it works with a redis server group,and maxmize every server machine's capability,I hope you guys like it,especially put it in moblie phone game development",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fantasticsoul/gibernate"
+  },
+  "dependencies": {
+    "redis": "0.12.1",
+    "mysql": "2.0.0-rc2",
+    "async": "0.2.10",
+    "generic_pool": "2.0.4"
+  },
+  "keywords": [
+    "redis",
+    "orm",
+    "node",
+    "cluster",
+    "game",
+    "easy",
+    "cool"
+  ],
+  "author": "ZhongZhengKai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fantasticsoul/gibernate/issues"
+  },
+  "homepage": "https://github.com/fantasticsoul/gibernate"
+}
